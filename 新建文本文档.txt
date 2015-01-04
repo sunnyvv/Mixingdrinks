@@ -1,4 +1,6 @@
 http://blog.csdn.net/yangyu20121224/article/details/9122517
+http://blog.csdn.net/onegeng/article/details/5981049
+http://blog.csdn.net/changpingchen/article/details/9048071
 
 
 http://outofmemory.cn/code-snippet/4542/apache-cxf-webservice-hello-world-example
