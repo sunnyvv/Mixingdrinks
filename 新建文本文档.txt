@@ -1,0 +1,4 @@
+http://blog.csdn.net/yangyu20121224/article/details/9122517
+
+
+http://outofmemory.cn/code-snippet/4542/apache-cxf-webservice-hello-world-example
