@@ -3,4 +3,6 @@ http://blog.csdn.net/onegeng/article/details/5981049
 http://blog.csdn.net/changpingchen/article/details/9048071
 
 
+http://www.cnblogs.com/reborter/archive/2012/06/04/2535219.html
+
 http://outofmemory.cn/code-snippet/4542/apache-cxf-webservice-hello-world-example
